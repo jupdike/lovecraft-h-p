@@ -91,3 +91,52 @@ section.epub-type-cover img{
 	margin-bottom: auto;
 	margin-left: auto;
 }
+
+/* los = list of stories */
+/*.epub-type-los {
+  font-family: "Charter", "Hoefler Text", "Iowan Old Style", serif;
+  font-size: 110%;
+}*/
+.epub-type-los a {
+  text-decoration: none;
+}
+.epub-type-los i.cm::before {
+  content: url("../images/icon-cm.svg");
+  padding-right: 0.3em;
+  font-style: normal;
+  text-align: top;
+}
+.epub-type-los i.dc:before {
+  content: url("../images/icon-dc.svg");
+  padding-right: 0.3em;
+  font-style: normal;
+  text-align: top;
+}
+.epub-type-los th,
+.epub-type-los td {
+  padding: 0.25em;
+}
+.epub-type-los th:nth-child(1),
+.epub-type-los td:nth-child(1) {
+  text-align: right;
+}
+.epub-type-los th:nth-child(3) {
+  text-align: left;
+}
+.epub-type-los th:nth-child(4),
+.epub-type-los td:nth-child(4) {
+  text-align: left;
+}
+.epub-type-los td:nth-child(2) {
+  text-align: center;
+}
+.epub-type-los ul {
+  list-style-type: none;
+}
+.epub-type-los span.with {
+  font-size: 70%;
+}
+.epub-type-los table {
+	margin-left: auto;
+	margin-right: auto;
+}
