@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en-US">
+	<head>
+		<meta content="url:https://standardebooks.org/ebooks/h-p-lovecraft/short-fiction" name="dtb:uid"/>
+	</head>
+	<docTitle>
+		<text>Table of Contents</text>
+	</docTitle>
+	<navMap id="navmap">
+		<navPoint id="navpoint-1" playOrder="1">
+			<navLabel>
+				<text>Titlepage</text>
+			</navLabel>
+			<content src="text/titlepage.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-2" playOrder="2">
+			<navLabel>
+				<text>Imprint</text>
+			</navLabel>
+			<content src="text/imprint.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-3" playOrder="3">
+			<navLabel>
+				<text>The Alchemist</text>
+			</navLabel>
+			<content src="text/the-alchemist.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-4" playOrder="4">
+			<navLabel>
+				<text>Dagon</text>
+			</navLabel>
+			<content src="text/dagon.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-5" playOrder="5">
+			<navLabel>
+				<text>A Reminiscence of Dr. Samuel Johnson</text>
+			</navLabel>
+			<content src="text/a-reminiscence-of-dr-samuel-johnson.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-6" playOrder="6">
+			<navLabel>
+				<text>The White Ship</text>
+			</navLabel>
+			<content src="text/the-white-ship.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-7" playOrder="7">
+			<navLabel>
+				<text>Nyarlathotep</text>
+			</navLabel>
+			<content src="text/nyarlathotep.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-8" playOrder="8">
+			<navLabel>
+				<text>Ex Oblivione</text>
+			</navLabel>
+			<content src="text/ex-oblivione.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-9" playOrder="9">
+			<navLabel>
+				<text>The Dunwich Horror</text>
+			</navLabel>
+			<content src="text/the-dunwich-horror.xhtml"/>
+			<navPoint id="navpoint-10" playOrder="10">
+				<navLabel>
+					<text>I</text>
+				</navLabel>
+				<content src="text/the-dunwich-horror.xhtml#the-dunwich-horror-1"/>
+			</navPoint>
+			<navPoint id="navpoint-11" playOrder="11">
+				<navLabel>
+					<text>II</text>
+				</navLabel>
+				<content src="text/the-dunwich-horror.xhtml#the-dunwich-horror-2"/>
+			</navPoint>
+			<navPoint id="navpoint-12" playOrder="12">
+				<navLabel>
+					<text>III</text>
+				</navLabel>
+				<content src="text/the-dunwich-horror.xhtml#the-dunwich-horror-3"/>
+			</navPoint>
+			<navPoint id="navpoint-13" playOrder="13">
+				<navLabel>
+					<text>IV</text>
+				</navLabel>
+				<content src="text/the-dunwich-horror.xhtml#the-dunwich-horror-4"/>
+			</navPoint>
+			<navPoint id="navpoint-14" playOrder="14">
+				<navLabel>
+					<text>V</text>
+				</navLabel>
+				<content src="text/the-dunwich-horror.xhtml#the-dunwich-horror-5"/>
+			</navPoint>
+			<navPoint id="navpoint-15" playOrder="15">
+				<navLabel>
+					<text>VI</text>
+				</navLabel>
+				<content src="text/the-dunwich-horror.xhtml#the-dunwich-horror-6"/>
+			</navPoint>
+			<navPoint id="navpoint-16" playOrder="16">
+				<navLabel>
+					<text>VII</text>
+				</navLabel>
+				<content src="text/the-dunwich-horror.xhtml#the-dunwich-horror-7"/>
+			</navPoint>
+			<navPoint id="navpoint-17" playOrder="17">
+				<navLabel>
+					<text>VIII</text>
+				</navLabel>
+				<content src="text/the-dunwich-horror.xhtml#the-dunwich-horror-8"/>
+			</navPoint>
+			<navPoint id="navpoint-18" playOrder="18">
+				<navLabel>
+					<text>IX</text>
+				</navLabel>
+				<content src="text/the-dunwich-horror.xhtml#the-dunwich-horror-9"/>
+			</navPoint>
+			<navPoint id="navpoint-19" playOrder="19">
+				<navLabel>
+					<text>X</text>
+				</navLabel>
+				<content src="text/the-dunwich-horror.xhtml#the-dunwich-horror-10"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint-20" playOrder="20">
+			<navLabel>
+				<text>The Shunned House</text>
+			</navLabel>
+			<content src="text/the-shunned-house.xhtml"/>
+			<navPoint id="navpoint-21" playOrder="21">
+				<navLabel>
+					<text>I</text>
+				</navLabel>
+				<content src="text/the-shunned-house.xhtml#the-shunned-house-1"/>
+			</navPoint>
+			<navPoint id="navpoint-22" playOrder="22">
+				<navLabel>
+					<text>II</text>
+				</navLabel>
+				<content src="text/the-shunned-house.xhtml#the-shunned-house-2"/>
+			</navPoint>
+			<navPoint id="navpoint-23" playOrder="23">
+				<navLabel>
+					<text>III</text>
+				</navLabel>
+				<content src="text/the-shunned-house.xhtml#the-shunned-house-3"/>
+			</navPoint>
+			<navPoint id="navpoint-24" playOrder="24">
+				<navLabel>
+					<text>IV</text>
+				</navLabel>
+				<content src="text/the-shunned-house.xhtml#the-shunned-house-4"/>
+			</navPoint>
+			<navPoint id="navpoint-25" playOrder="25">
+				<navLabel>
+					<text>V</text>
+				</navLabel>
+				<content src="text/the-shunned-house.xhtml#the-shunned-house-5"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint-26" playOrder="26">
+			<navLabel>
+				<text>Colophon</text>
+			</navLabel>
+			<content src="text/colophon.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-27" playOrder="27">
+			<navLabel>
+				<text>Uncopyright</text>
+			</navLabel>
+			<content src="text/uncopyright.xhtml"/>
+		</navPoint>
+	</navMap>
+</ncx>
