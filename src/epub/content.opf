@@ -128,7 +128,6 @@
 		<item href="text/the-shunned-house.xhtml" id="the-shunned-house.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-white-ship.xhtml" id="the-white-ship.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
 	</manifest>
 	<spine toc="ncx">
 		<itemref idref="titlepage.xhtml"/>
@@ -142,7 +141,6 @@
 		<itemref idref="the-dunwich-horror.xhtml"/>
 		<itemref idref="the-shunned-house.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
-		<itemref idref="uncopyright.xhtml"/>
 	</spine>
 	<guide>
 		<reference href="text/titlepage.xhtml" title="Titlepage" type="title-page text"/>
