@@ -117,7 +117,7 @@
 		<item href="images/cover.jpg" id="cover.jpg" media-type="image/jpeg" properties="cover-image"/>
 		<item href="images/logo.png" id="logo.png" media-type="image/png"/>
 		<item href="images/logo2.png" id="logo2.png" media-type="image/png"/>
-		<item href="images/icon-dm.png" id="icon-dm.png" media-type="image/png"/>
+		<item href="images/icon-dc.png" id="icon-dc.png" media-type="image/png"/>
 		<item href="images/icon-cm.png" id="icon-cm.png" media-type="image/png"/>
 		<item href="images/titlepage.png" id="titlepage.png" media-type="image/png"/>
 		<item href="text/a-reminiscence-of-dr-samuel-johnson.xhtml" id="a-reminiscence-of-dr-samuel-johnson.xhtml" media-type="application/xhtml+xml"/>
