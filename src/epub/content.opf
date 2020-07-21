@@ -116,9 +116,11 @@
 		<item href="css/local.css" id="local.css" media-type="text/css"/>
 		<item href="images/cover.jpg" id="cover.jpg" media-type="image/jpeg" properties="cover-image"/>
 		<item href="images/logo.png" id="logo.png" media-type="image/png"/>
+		<item href="images/logo2.png" id="logo2.png" media-type="image/png"/>
 		<item href="images/titlepage.png" id="titlepage.png" media-type="image/png"/>
 		<item href="text/a-reminiscence-of-dr-samuel-johnson.xhtml" id="a-reminiscence-of-dr-samuel-johnson.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/dagon.xhtml" id="dagon.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/ex-oblivione.xhtml" id="ex-oblivione.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml"/>
@@ -130,6 +132,7 @@
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml"/>
 	</manifest>
 	<spine toc="ncx">
+		<itemref idref="cover.xhtml"/>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
 		<itemref idref="the-alchemist.xhtml"/>
@@ -143,6 +146,7 @@
 		<itemref idref="colophon.xhtml"/>
 	</spine>
 	<guide>
+		<reference href="text/cover.xhtml" title="Cover" type="title-page text"/>
 		<reference href="text/titlepage.xhtml" title="Titlepage" type="title-page text"/>
 		<reference href="text/imprint.xhtml" title="Imprint" type="imprint"/>
 		<reference href="text/the-alchemist.xhtml" title="Complete Fiction" type="bodymatter"/>

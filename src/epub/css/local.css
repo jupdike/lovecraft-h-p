@@ -82,3 +82,12 @@ article > header .epub-type-epigraph{
 .epub-type-z3998-verse + p{
 	text-indent: 0;
 }
+
+section.epub-type-cover img{
+	display: block;
+	width: 100%;
+	margin-top: 1em;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+}
