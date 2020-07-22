@@ -94,7 +94,7 @@ section.epub-type-cover img{
 
 /* los = list of stories */
 .epub-type-los {
-  /*font-family: "Charter", "Hoefler Text", "Iowan Old Style", serif;*/
+  /*font-family: "Iowan Old Style", "Charter", "Hoefler Text", serif;*/
   font-size: 80%;
 }
 .epub-type-los a {
