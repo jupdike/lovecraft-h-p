@@ -130,6 +130,7 @@
 		<item href="text/nyarlathotep.xhtml" id="nyarlathotep.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-alchemist.xhtml" id="the-alchemist.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-dunwich-horror.xhtml" id="the-dunwich-horror.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-little-glass-bottle.xhtml" id="the-little-glass-bottle.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-shunned-house.xhtml" id="the-shunned-house.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-white-ship.xhtml" id="the-white-ship.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml"/>
@@ -139,6 +140,7 @@
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
 		<itemref idref="list-of-stories.xhtml"/>
+		<itemref idref="the-little-glass-bottle.xhtml"/>
 		<itemref idref="the-alchemist.xhtml"/>
 		<itemref idref="dagon.xhtml"/>
 		<itemref idref="a-reminiscence-of-dr-samuel-johnson.xhtml"/>
@@ -154,7 +156,7 @@
 		<reference href="text/titlepage.xhtml" title="Titlepage" type="title-page text"/>
 		<reference href="text/imprint.xhtml" title="Imprint" type="imprint"/>
 		<reference href="text/list-of-stories.xhtml" title="List of Stories" type="toc"/>
-		<reference href="text/the-alchemist.xhtml" title="Complete Fiction" type="bodymatter"/>
+		<reference href="text/the-little-glass-bottle.xhtml" title="Complete Fiction" type="bodymatter"/>
 		<reference href="text/colophon.xhtml" title="Colophon" type="colophon"/>
 		<reference href="text/uncopyright.xhtml" title="Uncopyright" type="copyright page"/>
 	</guide>
