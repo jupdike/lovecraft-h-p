@@ -151,3 +151,19 @@ section.epub-type-cover img{
 .yuggothic {
 	font-family: Yuggothic;
 }
+
+#the-mystery-of-the-grave-yard h3 {
+	margin-top: 2em;
+	margin-bottom: 1em;
+}
+#the-mystery-of-the-grave-yard h4 {
+	margin-bottom: 0;
+}
+#the-mystery-of-the-grave-yard h4 + p {
+	text-align: right;
+	margin: 0;
+}
+
+#the-mystery-of-the-grave-yard h2 span:nth-child(5)  {
+	font-size: 80%;
+}

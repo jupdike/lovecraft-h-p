@@ -131,6 +131,7 @@
 		<item href="text/the-alchemist.xhtml" id="the-alchemist.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-dunwich-horror.xhtml" id="the-dunwich-horror.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-little-glass-bottle.xhtml" id="the-little-glass-bottle.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-mystery-of-the-grave-yard.xhtml" id="the-mystery-of-the-grave-yard.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-shunned-house.xhtml" id="the-shunned-house.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-white-ship.xhtml" id="the-white-ship.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml"/>
@@ -141,6 +142,7 @@
 		<itemref idref="imprint.xhtml"/>
 		<itemref idref="list-of-stories.xhtml"/>
 		<itemref idref="the-little-glass-bottle.xhtml"/>
+		<itemref idref="the-mystery-of-the-grave-yard.xhtml"/>
 		<itemref idref="the-alchemist.xhtml"/>
 		<itemref idref="dagon.xhtml"/>
 		<itemref idref="a-reminiscence-of-dr-samuel-johnson.xhtml"/>
