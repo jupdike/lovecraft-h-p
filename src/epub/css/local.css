@@ -122,15 +122,16 @@ section.epub-type-cover img{
 .epub-type-los td:nth-child(1) {
   text-align: right;
 }
-.epub-type-los th:nth-child(3) {
-  text-align: left;
+.epub-type-los td:nth-child(3) {
+  text-align: right;
 }
 .epub-type-los th:nth-child(4),
 .epub-type-los td:nth-child(4) {
   text-align: left;
 }
-.epub-type-los td:nth-child(2) {
-  text-align: center;
+.epub-type-los td:nth-child(2),
+.epub-type-los th:nth-child(2) {
+  text-align: right;
 }
 .epub-type-los ul {
 	list-style-type: none;
