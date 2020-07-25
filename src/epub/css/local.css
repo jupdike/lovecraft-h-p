@@ -144,6 +144,12 @@ section.epub-type-cover img{
 	margin-right: auto;
 }
 
+.epub-type-los td p {
+	margin-top: 0.8em;
+	margin-bottom: 0.3em;
+	text-align: left;
+}
+
 @font-face {
   font-family: "Yuggothic";
 	src: url("../fonts/Yuggothic.woff2") format("woff2");
