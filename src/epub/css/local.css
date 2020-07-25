@@ -167,3 +167,7 @@ section.epub-type-cover img{
 #the-mystery-of-the-grave-yard h2 span:nth-child(5)  {
 	font-size: 80%;
 }
+
+.epub-type-los td {
+	vertical-align: top;
+}
