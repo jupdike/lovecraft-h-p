@@ -129,10 +129,14 @@
 		<item href="text/list-of-stories.xhtml" id="list-of-stories.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/nyarlathotep.xhtml" id="nyarlathotep.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-alchemist.xhtml" id="the-alchemist.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-beast-in-the-cave.xhtml" id="the-beast-in-the-cave.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-dunwich-horror.xhtml" id="the-dunwich-horror.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-little-glass-bottle.xhtml" id="the-little-glass-bottle.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-mysterious-ship.xhtml" id="the-mysterious-ship.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-mystery-of-the-grave-yard.xhtml" id="the-mystery-of-the-grave-yard.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-secret-cave.xhtml" id="the-secret-cave.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-shunned-house.xhtml" id="the-shunned-house.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-tomb.xhtml" id="the-tomb.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-white-ship.xhtml" id="the-white-ship.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml"/>
 	</manifest>
@@ -143,7 +147,11 @@
 		<itemref idref="list-of-stories.xhtml"/>
 		<itemref idref="the-little-glass-bottle.xhtml"/>
 		<itemref idref="the-mystery-of-the-grave-yard.xhtml"/>
+		<itemref idref="the-secret-cave.xhtml"/>
+		<itemref idref="the-mysterious-ship.xhtml"/>
+		<itemref idref="the-beast-in-the-cave.xhtml"/>
 		<itemref idref="the-alchemist.xhtml"/>
+		<itemref idref="the-tomb.xhtml"/>
 		<itemref idref="dagon.xhtml"/>
 		<itemref idref="a-reminiscence-of-dr-samuel-johnson.xhtml"/>
 		<itemref idref="the-white-ship.xhtml"/>

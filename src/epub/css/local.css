@@ -192,3 +192,38 @@ img.seal-of-evil {
 	width: 100px;
 	height: auto;
 }
+
+#the-mysterious-ship h3 {
+	margin-top: 2em;
+	margin-bottom: 1em;
+}
+
+p + p.verse {
+	text-indent: 0;
+	margin-top: 1em;
+}
+p.verse > span {
+	display: block;
+	padding-left: 1em;
+	text-indent: -1em;
+}
+p.verse span.i2 {
+	margin-left: 1em;
+}
+
+#the-tomb blockquote {
+	margin-left: 1em;
+}
+
+blockquote {
+	background-color: transparent;
+}
+
+cite {
+	font-style: normal !important;
+	font-variant: small-caps;
+}
+p + cite {
+	margin-top: 1em;
+	margin-bottom: 2em;
+}
