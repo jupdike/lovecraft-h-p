@@ -180,4 +180,10 @@ section.epub-type-cover img{
 
 img.seal-of-evil {
 	width: 222px;
+	height: auto;
+}
+
+.epub-type-imprint img {
+	width: 100px;
+	height: auto;
 }
