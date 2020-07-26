@@ -114,6 +114,11 @@ section.epub-type-cover img{
   font-style: normal;
   text-align: top;
 }
+.epub-type-los th {
+	font-style: none;
+	font-weight: normal;
+	font-variant: small-caps;
+}
 .epub-type-los th,
 .epub-type-los td {
   padding: 0.25em;
