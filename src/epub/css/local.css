@@ -267,3 +267,13 @@ p.verse span.i2 {
 blockquote {
 	background-color: transparent;
 }
+#sweet-ermengarde h3 {
+	margin-top: 2em;
+	margin-bottom: 1em;
+}
+p.direction {
+	margin-top: 0.5em;
+	text-align: center;
+	font-variant: small-caps;
+}
+
