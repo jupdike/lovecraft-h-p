@@ -133,6 +133,7 @@
 		<item href="text/the-alchemist.xhtml" id="the-alchemist.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-beast-in-the-cave.xhtml" id="the-beast-in-the-cave.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-dunwich-horror.xhtml" id="the-dunwich-horror.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-green-meadow.xhtml" id="the-green-meadow.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-little-glass-bottle.xhtml" id="the-little-glass-bottle.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-mysterious-ship.xhtml" id="the-mysterious-ship.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-mystery-of-the-grave-yard.xhtml" id="the-mystery-of-the-grave-yard.xhtml" media-type="application/xhtml+xml"/>
@@ -158,6 +159,7 @@
 		<itemref idref="a-reminiscence-of-dr-samuel-johnson.xhtml"/>
 		<itemref idref="sweet-ermengarde.xhtml"/>
 		<itemref idref="polaris.xhtml"/>
+		<itemref idref="the-green-meadow.xhtml"/>
 		<itemref idref="the-white-ship.xhtml"/>
 		<itemref idref="nyarlathotep.xhtml"/>
 		<itemref idref="ex-oblivione.xhtml"/>

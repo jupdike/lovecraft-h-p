@@ -273,7 +273,11 @@ blockquote {
 }
 p.direction {
 	margin-top: 0.5em;
+	margin-bottom: 0.5em;
 	text-align: center;
 	font-variant: small-caps;
 }
 
+#the-green-meadow h4 {
+	font-weight: normal;
+}
