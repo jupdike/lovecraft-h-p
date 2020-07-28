@@ -136,6 +136,7 @@
 		<item href="text/nyarlathotep.xhtml" id="nyarlathotep.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/old-bugs.xhtml" id="old-bugs.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/polaris.xhtml" id="polaris.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/supernatural-horror-in-literature.xhtml" id="supernatural-horror-in-literature.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/sweet-ermengarde.xhtml" id="sweet-ermengarde.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-alchemist.xhtml" id="the-alchemist.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-beast-in-the-cave.xhtml" id="the-beast-in-the-cave.xhtml" media-type="application/xhtml+xml"/>
@@ -185,6 +186,7 @@
 		<itemref idref="ex-oblivione.xhtml"/>
 		<itemref idref="the-shunned-house.xhtml"/>
 		<itemref idref="the-dunwich-horror.xhtml"/>
+		<itemref idref="supernatural-horror-in-literature.xhtml"/>
 		<itemref idref="maps.xhtml"/>
 		<itemref idref="maps2.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
@@ -195,6 +197,7 @@
 		<reference href="text/imprint.xhtml" title="Imprint" type="imprint"/>
 		<reference href="text/list-of-stories.xhtml" title="List of Stories" type="toc"/>
 		<reference href="text/the-little-glass-bottle.xhtml" title="Complete Fiction" type="bodymatter"/>
+		<reference href="text/supernatural-horror-in-literature.xhtml" title="Supernatural Horror in Literature" type="bodymatter"/>
 		<reference href="text/maps.xhtml" title="Maps" type="backmatter"/>
 		<reference href="text/colophon.xhtml" title="Colophon" type="colophon"/>
 	</guide>
