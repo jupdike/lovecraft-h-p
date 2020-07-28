@@ -121,17 +121,21 @@
 		<item href="images/logo2.png" id="logo2.png" media-type="image/png"/>
 		<item href="images/titlepage.png" id="titlepage.png" media-type="image/png"/>
 		<item href="text/a-reminiscence-of-dr-samuel-johnson.xhtml" id="a-reminiscence-of-dr-samuel-johnson.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/beyond-the-wall-of-sleep.xhtml" id="beyond-the-wall-of-sleep.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/dagon.xhtml" id="dagon.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/ex-oblivione.xhtml" id="ex-oblivione.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/list-of-stories.xhtml" id="list-of-stories.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/memory.xhtml" id="memory.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/nyarlathotep.xhtml" id="nyarlathotep.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/old-bugs.xhtml" id="old-bugs.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/polaris.xhtml" id="polaris.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/sweet-ermengarde.xhtml" id="sweet-ermengarde.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-alchemist.xhtml" id="the-alchemist.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-beast-in-the-cave.xhtml" id="the-beast-in-the-cave.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-doom-that-came-to-sarnath.xhtml" id="the-doom-that-came-to-sarnath.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-dunwich-horror.xhtml" id="the-dunwich-horror.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-green-meadow.xhtml" id="the-green-meadow.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-little-glass-bottle.xhtml" id="the-little-glass-bottle.xhtml" media-type="application/xhtml+xml"/>
@@ -139,7 +143,10 @@
 		<item href="text/the-mystery-of-the-grave-yard.xhtml" id="the-mystery-of-the-grave-yard.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-secret-cave.xhtml" id="the-secret-cave.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-shunned-house.xhtml" id="the-shunned-house.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-statement-of-randolph-carter.xhtml" id="the-statement-of-randolph-carter.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-tomb.xhtml" id="the-tomb.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-terrible-old-man.xhtml" id="the-terrible-old-man.xhtml"  media-type="application/xhtml+xml"/>
+		<item href="text/the-transition-of-juan-romero.xhtml" id="the-transition-of-juan-romero.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-white-ship.xhtml" id="the-white-ship.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml"/>
 	</manifest>
@@ -160,7 +167,14 @@
 		<itemref idref="sweet-ermengarde.xhtml"/>
 		<itemref idref="polaris.xhtml"/>
 		<itemref idref="the-green-meadow.xhtml"/>
+		<itemref idref="beyond-the-wall-of-sleep.xhtml"/>
+		<itemref idref="memory.xhtml"/>
+		<itemref idref="old-bugs.xhtml"/>
+		<itemref idref="the-transition-of-juan-romero.xhtml"/>
 		<itemref idref="the-white-ship.xhtml"/>
+		<itemref idref="the-doom-that-came-to-sarnath.xhtml"/>
+		<itemref idref="the-statement-of-randolph-carter.xhtml"/>
+		<itemref idref="the-terrible-old-man.xhtml"/>
 		<itemref idref="nyarlathotep.xhtml"/>
 		<itemref idref="ex-oblivione.xhtml"/>
 		<itemref idref="the-shunned-house.xhtml"/>

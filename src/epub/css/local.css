@@ -15,6 +15,10 @@
 	text-indent: 0;
 }
 
+h2 .epub-type-subtitle{
+	font-size: 80%;
+}
+
 /* All epigraphs */
 .epub-type-epigraph{
 	font-style: italic;
