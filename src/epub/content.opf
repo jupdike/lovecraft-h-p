@@ -119,6 +119,8 @@
 		<item href="images/lgb.gif" id="lgb.gif" media-type="image/gif"/>
 		<item href="images/logo.png" id="logo.png" media-type="image/png"/>
 		<item href="images/logo2.png" id="logo2.png" media-type="image/png"/>
+		<item href="images/map.gif" id="map.gif" media-type="image/gif"/>
+		<item href="images/map2.png" id="map2.png" media-type="image/png"/>
 		<item href="images/titlepage.png" id="titlepage.png" media-type="image/png"/>
 		<item href="text/a-reminiscence-of-dr-samuel-johnson.xhtml" id="a-reminiscence-of-dr-samuel-johnson.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/beyond-the-wall-of-sleep.xhtml" id="beyond-the-wall-of-sleep.xhtml" media-type="application/xhtml+xml"/>
@@ -128,6 +130,8 @@
 		<item href="text/ex-oblivione.xhtml" id="ex-oblivione.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/list-of-stories.xhtml" id="list-of-stories.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/maps.xhtml" id="maps.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/maps2.xhtml" id="maps2.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/memory.xhtml" id="memory.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/nyarlathotep.xhtml" id="nyarlathotep.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/old-bugs.xhtml" id="old-bugs.xhtml" media-type="application/xhtml+xml"/>
@@ -179,6 +183,8 @@
 		<itemref idref="ex-oblivione.xhtml"/>
 		<itemref idref="the-shunned-house.xhtml"/>
 		<itemref idref="the-dunwich-horror.xhtml"/>
+		<itemref idref="maps.xhtml"/>
+		<itemref idref="maps2.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 	</spine>
 	<guide>
@@ -187,7 +193,7 @@
 		<reference href="text/imprint.xhtml" title="Imprint" type="imprint"/>
 		<reference href="text/list-of-stories.xhtml" title="List of Stories" type="toc"/>
 		<reference href="text/the-little-glass-bottle.xhtml" title="Complete Fiction" type="bodymatter"/>
+		<reference href="text/maps.xhtml" title="Maps" type="backmatter"/>
 		<reference href="text/colophon.xhtml" title="Colophon" type="colophon"/>
-		<reference href="text/uncopyright.xhtml" title="Uncopyright" type="copyright page"/>
 	</guide>
 </package>

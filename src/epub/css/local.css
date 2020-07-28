@@ -96,6 +96,15 @@ section.epub-type-cover img{
 	margin-left: auto;
 }
 
+section.epub-type-map img{
+	display: block;
+	width: 100%;
+	margin-top: 1em;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+}
+
 
 /* All epigraphs */
 .epub-type-epigraph{
