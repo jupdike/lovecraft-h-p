@@ -150,8 +150,9 @@
 		<item href="text/the-secret-cave.xhtml" id="the-secret-cave.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-shunned-house.xhtml" id="the-shunned-house.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-statement-of-randolph-carter.xhtml" id="the-statement-of-randolph-carter.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/the-tomb.xhtml" id="the-tomb.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-temple.xhtml" id="the-temple.xhtml"  media-type="application/xhtml+xml"/>
 		<item href="text/the-terrible-old-man.xhtml" id="the-terrible-old-man.xhtml"  media-type="application/xhtml+xml"/>
+		<item href="text/the-tomb.xhtml" id="the-tomb.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-tree.xhtml" id="the-tree.xhtml"  media-type="application/xhtml+xml"/>
 		<item href="text/the-transition-of-juan-romero.xhtml" id="the-transition-of-juan-romero.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-white-ship.xhtml" id="the-white-ship.xhtml" media-type="application/xhtml+xml"/>
@@ -184,6 +185,7 @@
 		<itemref idref="the-terrible-old-man.xhtml"/>
 		<itemref idref="the-tree.xhtml"/>
 		<itemref idref="the-cats-of-ulthar.xhtml"/>
+		<itemref idref="the-temple.xhtml"/>
 		<itemref idref="nyarlathotep.xhtml"/>
 		<itemref idref="ex-oblivione.xhtml"/>
 		<itemref idref="the-shunned-house.xhtml"/>

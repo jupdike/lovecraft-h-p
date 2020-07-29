@@ -294,3 +294,8 @@ p.direction {
 #the-green-meadow h4 {
 	font-weight: normal;
 }
+
+#the-temple p.epub-type-bridgehead {
+	font-style: normal;
+	font-variant: small-caps;
+}
