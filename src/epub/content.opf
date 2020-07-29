@@ -128,6 +128,7 @@
 		<item href="text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/dagon.xhtml" id="dagon.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/ex-oblivione.xhtml" id="ex-oblivione.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/facts-concerning-the-late-arthur-jermyn-and-his-family.xhtml" id="facts-concerning-the-late-arthur-jermyn-and-his-family.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/list-of-stories.xhtml" id="list-of-stories.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/maps.xhtml" id="maps.xhtml" media-type="application/xhtml+xml"/>
@@ -186,6 +187,7 @@
 		<itemref idref="the-tree.xhtml"/>
 		<itemref idref="the-cats-of-ulthar.xhtml"/>
 		<itemref idref="the-temple.xhtml"/>
+		<itemref idref="facts-concerning-the-late-arthur-jermyn-and-his-family.xhtml"/>
 		<itemref idref="nyarlathotep.xhtml"/>
 		<itemref idref="ex-oblivione.xhtml"/>
 		<itemref idref="the-shunned-house.xhtml"/>
