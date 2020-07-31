@@ -124,6 +124,7 @@
 		<item href="images/titlepage.png" id="titlepage.png" media-type="image/png"/>
 		<item href="text/a-reminiscence-of-dr-samuel-johnson.xhtml" id="a-reminiscence-of-dr-samuel-johnson.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/beyond-the-wall-of-sleep.xhtml" id="beyond-the-wall-of-sleep.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/celephaïs.xhtml" id="celephaïs.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/dagon.xhtml" id="dagon.xhtml" media-type="application/xhtml+xml"/>
@@ -136,6 +137,7 @@
 		<item href="text/memory.xhtml" id="memory.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/nyarlathotep.xhtml" id="nyarlathotep.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/old-bugs.xhtml" id="old-bugs.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/poetry-and-the-gods.xhtml" id="poetry-and-the-gods.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/polaris.xhtml" id="polaris.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/supernatural-horror-in-literature.xhtml" id="supernatural-horror-in-literature.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/sweet-ermengarde.xhtml" id="sweet-ermengarde.xhtml" media-type="application/xhtml+xml"/>
@@ -151,6 +153,7 @@
 		<item href="text/the-secret-cave.xhtml" id="the-secret-cave.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-shunned-house.xhtml" id="the-shunned-house.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-statement-of-randolph-carter.xhtml" id="the-statement-of-randolph-carter.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-street.xhtml" id="the-street.xhtml"  media-type="application/xhtml+xml"/>
 		<item href="text/the-temple.xhtml" id="the-temple.xhtml"  media-type="application/xhtml+xml"/>
 		<item href="text/the-terrible-old-man.xhtml" id="the-terrible-old-man.xhtml"  media-type="application/xhtml+xml"/>
 		<item href="text/the-tomb.xhtml" id="the-tomb.xhtml" media-type="application/xhtml+xml"/>
@@ -188,6 +191,9 @@
 		<itemref idref="the-cats-of-ulthar.xhtml"/>
 		<itemref idref="the-temple.xhtml"/>
 		<itemref idref="facts-concerning-the-late-arthur-jermyn-and-his-family.xhtml"/>
+		<itemref idref="the-street.xhtml"/>
+		<itemref idref="poetry-and-the-gods.xhtml"/>
+		<itemref idref="celephaïs.xhtml"/>
 		<itemref idref="nyarlathotep.xhtml"/>
 		<itemref idref="ex-oblivione.xhtml"/>
 		<itemref idref="the-shunned-house.xhtml"/>

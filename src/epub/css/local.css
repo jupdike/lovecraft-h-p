@@ -299,3 +299,8 @@ p.direction {
 	font-style: normal;
 	font-variant: small-caps;
 }
+
+span.elision{
+	margin: .5em;
+	margin-left: 3em;
+}
