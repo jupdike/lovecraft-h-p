@@ -136,6 +136,7 @@
 		<item href="text/maps.xhtml" id="maps.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/maps2.xhtml" id="maps2.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/memory.xhtml" id="memory.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/notes-on-writing-weird-fiction.xhtml" id="notes-on-writing-weird-fiction.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/nyarlathotep.xhtml" id="nyarlathotep.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/old-bugs.xhtml" id="old-bugs.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/poetry-and-the-gods.xhtml" id="poetry-and-the-gods.xhtml" media-type="application/xhtml+xml"/>
@@ -204,6 +205,7 @@
 		<itemref idref="ex-oblivione.xhtml"/>
 		<itemref idref="the-shunned-house.xhtml"/>
 		<itemref idref="the-dunwich-horror.xhtml"/>
+		<itemref idref="notes-on-writing-weird-fiction.xhtml"/>
 		<itemref idref="supernatural-horror-in-literature.xhtml"/>
 		<itemref idref="maps.xhtml"/>
 		<itemref idref="maps2.xhtml"/>
