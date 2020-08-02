@@ -151,9 +151,12 @@
 		<item href="text/the-dunwich-horror.xhtml" id="the-dunwich-horror.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-green-meadow.xhtml" id="the-green-meadow.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-little-glass-bottle.xhtml" id="the-little-glass-bottle.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-moon-bog.xhtml" id="the-moon-bog.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-mysterious-ship.xhtml" id="the-mysterious-ship.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-mystery-of-the-grave-yard.xhtml" id="the-mystery-of-the-grave-yard.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-nameless-city.xhtml" id="the-nameless-city.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-picture-in-the-house.xhtml" id="the-picture-in-the-house.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-quest-of-iranon.xhtml" id="the-quest-of-iranon.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-secret-cave.xhtml" id="the-secret-cave.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-shunned-house.xhtml" id="the-shunned-house.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-statement-of-randolph-carter.xhtml" id="the-statement-of-randolph-carter.xhtml" media-type="application/xhtml+xml"/>
@@ -203,6 +206,9 @@
 		<itemref idref="the-picture-in-the-house.xhtml"/>
 		<itemref idref="the-crawling-chaos.xhtml"/>
 		<itemref idref="ex-oblivione.xhtml"/>
+		<itemref idref="the-nameless-city.xhtml"/>
+		<itemref idref="the-quest-of-iranon.xhtml"/>
+		<itemref idref="the-moon-bog.xhtml"/>
 		<itemref idref="the-shunned-house.xhtml"/>
 		<itemref idref="the-dunwich-horror.xhtml"/>
 		<itemref idref="notes-on-writing-weird-fiction.xhtml"/>
