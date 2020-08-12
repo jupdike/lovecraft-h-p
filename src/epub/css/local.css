@@ -225,6 +225,20 @@ article > header .epub-type-epigraph + *{
 	font-family: Yuggothic;
 }
 
+hr {
+	margin-top: -0.1em;
+	padding-bottom: 0.6em;
+	padding-right: 0.4em;
+	margin-bottom: 0.4em;
+  border: none;
+	text-align: center;
+	font-size: 420%;
+}
+hr:after {
+	font-family: Yuggothic;
+  content: "_";
+}
+
 #the-mystery-of-the-grave-yard h3 {
 	margin-top: 2em;
 	margin-bottom: 1em;
