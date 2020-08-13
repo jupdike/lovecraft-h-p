@@ -122,6 +122,8 @@
 		<item href="images/map.gif" id="map.gif" media-type="image/gif"/>
 		<item href="images/map2.png" id="map2.png" media-type="image/png"/>
 		<item href="images/titlepage.png" id="titlepage.png" media-type="image/png"/>
+		<item href="text/appendix-a.xhtml" id="appendix-a.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/appendix-b.xhtml" id="appendix-b.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-reminiscence-of-dr-samuel-johnson.xhtml" id="a-reminiscence-of-dr-samuel-johnson.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/beyond-the-wall-of-sleep.xhtml" id="beyond-the-wall-of-sleep.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/celephaïs.xhtml" id="celephaïs.xhtml" media-type="application/xhtml+xml"/>
@@ -131,6 +133,7 @@
 		<item href="text/ex-oblivione.xhtml" id="ex-oblivione.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/facts-concerning-the-late-arthur-jermyn-and-his-family.xhtml" id="facts-concerning-the-late-arthur-jermyn-and-his-family.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/from-beyond.xhtml" id="from-beyond.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/halftitle.xhtml" id="halftitle.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/herbert-west-reanimator.xhtml" id="herbert-west-reanimator.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/list-of-stories.xhtml" id="list-of-stories.xhtml" media-type="application/xhtml+xml"/>
@@ -178,10 +181,7 @@
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
 		<itemref idref="list-of-stories.xhtml"/>
-		<itemref idref="the-little-glass-bottle.xhtml"/>
-		<itemref idref="the-mystery-of-the-grave-yard.xhtml"/>
-		<itemref idref="the-secret-cave.xhtml"/>
-		<itemref idref="the-mysterious-ship.xhtml"/>
+		<itemref idref="halftitle.xhtml"/>
 		<itemref idref="the-beast-in-the-cave.xhtml"/>
 		<itemref idref="the-alchemist.xhtml"/>
 		<itemref idref="the-tomb.xhtml"/>
@@ -219,6 +219,12 @@
 		<itemref idref="herbert-west-reanimator.xhtml"/>
 		<itemref idref="the-shunned-house.xhtml"/>
 		<itemref idref="the-dunwich-horror.xhtml"/>
+		<itemref idref="appendix-a.xhtml"/>
+		<itemref idref="the-little-glass-bottle.xhtml"/>
+		<itemref idref="the-mystery-of-the-grave-yard.xhtml"/>
+		<itemref idref="the-secret-cave.xhtml"/>
+		<itemref idref="the-mysterious-ship.xhtml"/>
+		<itemref idref="appendix-b.xhtml"/>
 		<itemref idref="notes-on-writing-weird-fiction.xhtml"/>
 		<itemref idref="supernatural-horror-in-literature.xhtml"/>
 		<itemref idref="maps.xhtml"/>
@@ -230,9 +236,10 @@
 		<reference href="text/titlepage.xhtml" title="Titlepage" type="title-page text"/>
 		<reference href="text/imprint.xhtml" title="Imprint" type="imprint"/>
 		<reference href="text/list-of-stories.xhtml" title="List of Stories" type="toc"/>
-		<reference href="text/the-little-glass-bottle.xhtml" title="Complete Fiction" type="bodymatter"/>
-		<reference href="text/supernatural-horror-in-literature.xhtml" title="Supernatural Horror in Literature" type="bodymatter"/>
-		<reference href="text/maps.xhtml" title="Maps" type="backmatter"/>
+		<reference href="text/halftitle.xhtml" title="Complete Fiction" type="bodymatter"/>
+		<reference href="text/appendix-a.xhtml" title="Appendix A: Juvenilia" type="backmatter"/>
+		<reference href="text/appendix-a.xhtml" title="Appendix B: Essays on Fiction" type="backmatter"/>
+		<reference href="text/maps.xhtml" title="Appendix C: Maps of Lovecraft Country" type="backmatter"/>
 		<reference href="text/colophon.xhtml" title="Colophon" type="colophon"/>
 	</guide>
 </package>

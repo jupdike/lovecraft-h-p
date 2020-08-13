@@ -318,3 +318,15 @@ span.elision{
 	margin: .5em;
 	margin-left: 3em;
 }
+
+section[epub|type~="halftitlepage"] span[epub|type~="subtitle"]{
+	display: block;
+	font-size: .75em;
+	font-weight: normal;
+}
+
+#maps span[epub|type~="subtitle"] {
+	display: block;
+	font-size: .75em;
+	font-weight: normal;
+}
