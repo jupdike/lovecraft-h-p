@@ -131,6 +131,7 @@
 		<item href="text/ex-oblivione.xhtml" id="ex-oblivione.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/facts-concerning-the-late-arthur-jermyn-and-his-family.xhtml" id="facts-concerning-the-late-arthur-jermyn-and-his-family.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/from-beyond.xhtml" id="from-beyond.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/herbert-west-reanimator.xhtml" id="herbert-west-reanimator.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/list-of-stories.xhtml" id="list-of-stories.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/maps.xhtml" id="maps.xhtml" media-type="application/xhtml+xml"/>
@@ -215,6 +216,7 @@
 		<itemref idref="the-outsider.xhtml"/>
 		<itemref idref="the-other-gods.xhtml"/>
 		<itemref idref="the-music-of-erich-zann.xhtml"/>
+		<itemref idref="herbert-west-reanimator.xhtml"/>
 		<itemref idref="the-shunned-house.xhtml"/>
 		<itemref idref="the-dunwich-horror.xhtml"/>
 		<itemref idref="notes-on-writing-weird-fiction.xhtml"/>
