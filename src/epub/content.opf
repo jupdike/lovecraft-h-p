@@ -131,6 +131,7 @@
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/dagon.xhtml" id="dagon.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/deaf-dumb-and-blind.xhtml" id="deaf-dumb-and-blind.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/ex-oblivione.xhtml" id="ex-oblivione.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/facts-concerning-the-late-arthur-jermyn-and-his-family.xhtml" id="facts-concerning-the-late-arthur-jermyn-and-his-family.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/from-beyond.xhtml" id="from-beyond.xhtml" media-type="application/xhtml+xml"/>
@@ -157,7 +158,9 @@
 		<item href="text/the-dunwich-horror.xhtml" id="the-dunwich-horror.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-green-meadow.xhtml" id="the-green-meadow.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-horror-at-martins-beach.xhtml" id="the-horror-at-martins-beach.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-hound.xhtml" id="the-hound.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-little-glass-bottle.xhtml" id="the-little-glass-bottle.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-lurking-fear.xhtml" id="the-lurking-fear.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-moon-bog.xhtml" id="the-moon-bog.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-music-of-erich-zann.xhtml" id="the-music-of-erich-zann.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-mysterious-ship.xhtml" id="the-mysterious-ship.xhtml" media-type="application/xhtml+xml"/>
@@ -167,6 +170,7 @@
 		<item href="text/the-outsider.xhtml" id="the-outsider.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-picture-in-the-house.xhtml" id="the-picture-in-the-house.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-quest-of-iranon.xhtml" id="the-quest-of-iranon.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-rats-in-the-walls.xhtml" id="the-rats-in-the-walls.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-secret-cave.xhtml" id="the-secret-cave.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-shunned-house.xhtml" id="the-shunned-house.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-statement-of-randolph-carter.xhtml" id="the-statement-of-randolph-carter.xhtml" media-type="application/xhtml+xml"/>
@@ -176,6 +180,7 @@
 		<item href="text/the-tomb.xhtml" id="the-tomb.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-tree.xhtml" id="the-tree.xhtml"  media-type="application/xhtml+xml"/>
 		<item href="text/the-transition-of-juan-romero.xhtml" id="the-transition-of-juan-romero.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-unnamable.xhtml" id="the-unnamable.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-white-ship.xhtml" id="the-white-ship.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/what-the-moon-brings.xhtml" id="what-the-moon-brings.xhtml" media-type="application/xhtml+xml"/>
@@ -225,6 +230,11 @@
 		<itemref idref="what-the-moon-brings.xhtml"/>
 		<itemref idref="azathoth.xhtml"/>
 		<itemref idref="the-horror-at-martins-beach.xhtml"/>
+		<itemref idref="the-hound.xhtml"/>
+		<itemref idref="the-lurking-fear.xhtml"/>
+		<itemref idref="the-rats-in-the-walls.xhtml"/>
+		<itemref idref="the-unnamable.xhtml"/>
+		<itemref idref="deaf-dumb-and-blind.xhtml"/>
 		<itemref idref="the-shunned-house.xhtml"/>
 		<itemref idref="the-dunwich-horror.xhtml"/>
 		<itemref idref="appendix-a.xhtml"/>
