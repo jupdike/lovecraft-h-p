@@ -125,6 +125,7 @@
 		<item href="text/appendix-a.xhtml" id="appendix-a.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/appendix-b.xhtml" id="appendix-b.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-reminiscence-of-dr-samuel-johnson.xhtml" id="a-reminiscence-of-dr-samuel-johnson.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/ashes.xhtml" id="ashes.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/azathoth.xhtml" id="azathoth.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/beyond-the-wall-of-sleep.xhtml" id="beyond-the-wall-of-sleep.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/celephaïs.xhtml" id="celephaïs.xhtml" media-type="application/xhtml+xml"/>
@@ -156,10 +157,13 @@
 		<item href="text/the-crawling-chaos.xhtml" id="the-crawling-chaos.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-doom-that-came-to-sarnath.xhtml" id="the-doom-that-came-to-sarnath.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-dunwich-horror.xhtml" id="the-dunwich-horror.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-festival.xhtml" id="the-festival.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-ghost-eater.xhtml" id="the-ghost-eater.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-green-meadow.xhtml" id="the-green-meadow.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-horror-at-martins-beach.xhtml" id="the-horror-at-martins-beach.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-hound.xhtml" id="the-hound.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-little-glass-bottle.xhtml" id="the-little-glass-bottle.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-loved-dead.xhtml" id="the-loved-dead.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-lurking-fear.xhtml" id="the-lurking-fear.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-moon-bog.xhtml" id="the-moon-bog.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-music-of-erich-zann.xhtml" id="the-music-of-erich-zann.xhtml" media-type="application/xhtml+xml"/>
@@ -183,6 +187,7 @@
 		<item href="text/the-unnamable.xhtml" id="the-unnamable.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-white-ship.xhtml" id="the-white-ship.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/under-the-pyramids.xhtml" id="under-the-pyramids.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/what-the-moon-brings.xhtml" id="what-the-moon-brings.xhtml" media-type="application/xhtml+xml"/>
 	</manifest>
 	<spine toc="ncx">
@@ -234,7 +239,12 @@
 		<itemref idref="the-lurking-fear.xhtml"/>
 		<itemref idref="the-rats-in-the-walls.xhtml"/>
 		<itemref idref="the-unnamable.xhtml"/>
+		<itemref idref="ashes.xhtml"/>
+		<itemref idref="the-ghost-eater.xhtml"/>
+		<itemref idref="the-loved-dead.xhtml"/>
+		<itemref idref="the-festival.xhtml"/>
 		<itemref idref="deaf-dumb-and-blind.xhtml"/>
+		<itemref idref="under-the-pyramids.xhtml"/>
 		<itemref idref="the-shunned-house.xhtml"/>
 		<itemref idref="the-dunwich-horror.xhtml"/>
 		<itemref idref="appendix-a.xhtml"/>

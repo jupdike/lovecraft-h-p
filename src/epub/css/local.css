@@ -345,3 +345,8 @@ section[epub|type~="halftitlepage"] span[epub|type~="subtitle"]{
 #the-rats-in-the-walls .note {
 	font-style: italic;
 }
+
+abbr.era {
+	text-transform: lowercase;
+	font-variant: small-caps;
+}
