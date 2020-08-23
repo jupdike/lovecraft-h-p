@@ -149,6 +149,7 @@
 		<item href="text/notes-on-writing-weird-fiction.xhtml" id="notes-on-writing-weird-fiction.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/nyarlathotep.xhtml" id="nyarlathotep.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/old-bugs.xhtml" id="old-bugs.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/pickmans-model.xhtml" id="pickmans-model.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/poetry-and-the-gods.xhtml" id="poetry-and-the-gods.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/polaris.xhtml" id="polaris.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/supernatural-horror-in-literature.xhtml" id="supernatural-horror-in-literature.xhtml" media-type="application/xhtml+xml"/>
@@ -193,6 +194,7 @@
 		<item href="text/the-unnamable.xhtml" id="the-unnamable.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-white-ship.xhtml" id="the-white-ship.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/two-black-bottles.xhtml" id="two-black-bottles.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/under-the-pyramids.xhtml" id="under-the-pyramids.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/what-the-moon-brings.xhtml" id="what-the-moon-brings.xhtml" media-type="application/xhtml+xml"/>
 	</manifest>
@@ -258,6 +260,8 @@
 		<itemref idref="the-descendant.xhtml"/>
 		<itemref idref="cool-air.xhtml"/>
 		<itemref idref="the-call-of-cthulhu.xhtml"/>
+		<itemref idref="two-black-bottles.xhtml"/>
+		<itemref idref="pickmans-model.xhtml"/>
 		<itemref idref="the-dunwich-horror.xhtml"/>
 		<itemref idref="appendix-a.xhtml"/>
 		<itemref idref="the-little-glass-bottle.xhtml"/>
