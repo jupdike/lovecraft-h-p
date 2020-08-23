@@ -350,3 +350,8 @@ abbr.era {
 	text-transform: lowercase;
 	font-variant: small-caps;
 }
+
+#the-call-of-cthulhu blockquote h4,
+#the-call-of-cthulhu blockquote h5 {
+	margin: 1em;
+}
