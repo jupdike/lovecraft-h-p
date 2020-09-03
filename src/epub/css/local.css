@@ -355,3 +355,7 @@ abbr.era {
 #the-call-of-cthulhu blockquote h5 {
 	margin: 1em;
 }
+
+h3 span.subtitle {
+	font-weight: normal;
+}
