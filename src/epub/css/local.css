@@ -176,14 +176,12 @@ article > header .epub-type-epigraph + *{
 .epub-type-los i.cm::before {
   content: "c";
   font-family: "Yuggothic";
-  padding-right: 0.8em;
   font-style: normal;
   text-align: top;
 }
 .epub-type-los i.dc::before {
   content: "d";
   font-family: "Yuggothic";
-  padding-right: 0.8em;
   font-style: normal;
   text-align: top;
 }
@@ -237,10 +235,13 @@ article > header .epub-type-epigraph + *{
 }
 
 hr {
-	margin-top: -0.1em;
+	margin: 0;
+	padding: 0;
+	margin-top: -0.4em;
 	padding-bottom: 0.6em;
-	padding-right: 0.4em;
 	margin-bottom: 0.4em;
+	margin-left: auto;
+	margin-right: auto;
   border: none;
 	text-align: center;
 	font-size: 420%;
@@ -262,7 +263,7 @@ hr:after {
 	margin: 0;
 }
 
-#the-mystery-of-the-grave-yard h2 span:nth-child(5)  {
+#the-mystery-of-the-grave-yard h2 span:nth-child(5) {
 	font-size: 80%;
 }
 
